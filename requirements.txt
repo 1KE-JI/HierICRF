@@ -1,0 +1,9 @@
+numpy==1.23.5
+openprompt==0.1.2
+pandas==1.4.2
+torch==1.10.1+cu113
+tqdm==4.65.0
+trampoline==0.1.2
+transformers==4.28.1
+datasets==2.11.0
+
