@@ -2,7 +2,7 @@
 # Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification
 
 This is the official repository for the paper
-[Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification]
+[Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification] [IJCAI 2024]
 ![DataConstruction](./overview.png)
 ## Requirements
 
