@@ -1,9 +1,9 @@
 
-# Few-Shot Hierarchical Text Classification using Chain of Hierarchical Iterative CRF
+# Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification
 
 This is the official repository for the paper
-[Few-Shot Hierarchical Text Classification using Chain of Hierarchical Iterative CRF]
-![DataConstruction](./image/overview.png)
+[Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification]
+![DataConstruction](./overview.png)
 ## Requirements
 
 * Python == 3.8
