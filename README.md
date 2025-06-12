@@ -44,5 +44,19 @@ We experiment on one Tesla V100-SXM2-32GB with CUDA version $10.2$. We use a bat
 ## Citation
 If you found this repository is helpful, please cite our paper:
 ```
+@inproceedings{ijcai2024p698,
+  title     = {Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification},
+  author    = {Ji, Ke and Wang, Peng and Ke, Wenjun and Li, Guozheng and Liu, Jiajun and Gao, Jingsheng and Shang, Ziyu},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {6315--6323},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/698},
+  url       = {https://doi.org/10.24963/ijcai.2024/698},
+}
 
 ```
